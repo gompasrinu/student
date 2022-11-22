@@ -1,0 +1,17 @@
+sno=int(input('enter student no'))
+name=input('enter student name')
+gender=input('enter student gender')
+group=input('enter student group')
+address=input('enter student address')
+
+print('sno',sno)
+print('sname',name)
+print('gender',gender)
+print('group',group)
+print('address',address)
+out put
+sno=123
+name=srinu
+gender=male
+group=mccs
+address=vizag
